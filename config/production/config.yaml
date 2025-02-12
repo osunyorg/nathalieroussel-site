@@ -2,6 +2,11 @@
 
 baseURL: https://nathalieroussel-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: f2e319af-9af3-4a7a-8586-06ed681b94a4
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
